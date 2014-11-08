@@ -17,3 +17,12 @@ Girl        | 👧       | nvhai    | 女孩
 Baby        | 👶       | baobao   | 宝宝
 Money bag   | 💰       | qian     | 钱
 Police man  | 👮       | jingcha  | 警察
+Moon        | 🌛       | yueliang | 月亮
+Sun         | 🌞       | taiyang  | 太阳
+Sheep       | 🐑       | yang     | 羊
+Ox          | 🐂       | niu      | 牛
+Cow         | 🐮       | muniu    | 母牛
+Dog         | 🐶       | gou      | 狗
+Cat         | 🐱       | mao      | 猫
+Horse       | 🐎       | ma       | 马
+
