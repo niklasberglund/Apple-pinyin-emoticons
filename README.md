@@ -7,14 +7,16 @@ Apple's OS X and iOS Chinese pinyin input can be used for emoticon input. This i
 
 Description    | Emoticon |  Pinyin  | Chinese
 -------------- | -------- | -------- | -------
-Poop           | 💩        | dabian   | 大便
 Happy          | 😊        | gaoxing  | 高兴
 Laughing       | 😄        | kaixin   | 开心
 Blowing a kiss | 😘        | qinqin   | 亲亲
+In pain        | 😫        | nanguo   | 难过
+Awkward        | 😅        | ganga    | 尴尬
+Sweating       | 😓        | han      | 汗
+Poop           | 💩        | dabian   | 大便
 Couple         | 👫        | qinglv   | 情侣
 Rose           | 🌹        | hua      | 花
 Cold           | 😷        | ganmao   | 感冒
-In pain        | 😫        | nanguo   | 难过
 Girl           | 👧        | nvhai    | 女孩
 Baby           | 👶        | baobao   | 宝宝
 Money bag      | 💰        | qian     | 钱
@@ -29,8 +31,6 @@ Cat            | 🐱        | mao      | 猫
 Tiger          | 🐯        | hu       | 虎
 Horse          | 🐎        | ma       | 马
 Milk cow       | 🐄        | nainiu   | 奶牛
-Awkward        | 😅        | ganga    | 尴尬
-Sweating       | 😓        | han      | 汗
 Sweat          | 💦        | liuhan   | 流汗
 Bowl of rice   | 🍚        | mifan    | 米饭
 Boat           | 🚢        | chuan    | 船
