@@ -34,3 +34,10 @@ Milk cow       | 🐄        | nainiu   | 奶牛
 Sweat          | 💦        | liuhan   | 流汗
 Bowl of rice   | 🍚        | mifan    | 米饭
 Boat           | 🚢        | chuan    | 船
+Plane          | ✈️        | feiji    | 飞机
+Car            | 🚗        | che      | 车
+Bus            | 🚌        | bashi    | 巴士
+Taxi           | 🚕        | chuzuche | 出租车
+Bicycle        | 🚲        | zixingche | 自行车
+Train          | 🚄        | huoche   | 火车
+Cargo truck    | 🚚        | huoche   | 货车
