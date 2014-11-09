@@ -29,8 +29,8 @@ Cat            | 🐱        | mao      | 猫
 Tiger          | 🐯        | hu       | 虎
 Horse          | 🐎        | ma       | 马
 Milk cow       | 🐄        | nainiu   | 奶牛
+Awkward        | 😅        | ganga    | 尴尬
 Sweating       | 😓        | han      | 汗
 Sweat          | 💦        | liuhan   | 流汗
 Bowl of rice   | 🍚        | mifan    | 米饭
 Boat           | 🚢        | chuan    | 船
-
