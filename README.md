@@ -13,10 +13,10 @@ Blowing a kiss | 😘        | qinqin   | 亲亲
 In pain        | 😫        | nanguo   | 难过
 Awkward        | 😅        | ganga    | 尴尬
 Sweating       | 😓        | han      | 汗
+Cold           | 😷        | ganmao   | 感冒
 Poop           | 💩        | dabian   | 大便
 Couple         | 👫        | qinglv   | 情侣
 Rose           | 🌹        | hua      | 花
-Cold           | 😷        | ganmao   | 感冒
 Girl           | 👧        | nvhai    | 女孩
 Baby           | 👶        | baobao   | 宝宝
 Money bag      | 💰        | qian     | 钱
