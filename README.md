@@ -11,6 +11,7 @@ Happy          | 😊        | gaoxing  | 高兴
 Laughing       | 😄        | kaixin   | 开心
 Blowing a kiss | 😘        | qinqin   | 亲亲
 In pain        | 😫        | nanguo   | 难过
+Angry          | 😠        | shengqi  | 生气
 Awkward        | 😅        | ganga    | 尴尬
 Sweating       | 😓        | han      | 汗
 Cold           | 😷        | ganmao   | 感冒
