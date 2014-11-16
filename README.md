@@ -42,5 +42,4 @@ Taxi           | 🚕        | chuzuche | 出租车
 Bicycle        | 🚲        | zixingche | 自行车
 Train          | 🚄        | huoche   | 火车
 Cargo truck    | 🚚        | huoche   | 货车
-Metro train    | 🚇        | ditie    | 地铁
-Money bag      | 💰        | qian     | 钱
+Metro train    | 🚇        | ditie    | 地
