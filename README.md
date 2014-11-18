@@ -43,5 +43,6 @@ Bicycle        | 🚲        | zixingche | 自行车
 Train          | 🚄        | huoche   | 火车
 Cargo truck    | 🚚        | huoche   | 货车
 Metro train    | 🚇        | ditie    | 地铁
+Cable car      | 🚠        | lanche   | 缆车
 Running        | 🏃        | paobu    | 跑步
 Swimming       | 🏊        | youyong  | 游泳
