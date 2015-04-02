@@ -16,7 +16,8 @@ Angry           | 😠        | shengqi           | 生气
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
 Cold            | 😷        | ganmao            | 感冒
-Crying          | 😢        | kuqi              | 哭泣
+Crying          | 😢        | kuqi              | 哭泣/哭
+Crying a lot    | 😭        | daku              | 大哭
 Horrified       | 😱        | kongbu            | 恐怖
 Thinking        | 😔        | sikao             | 思考
 Heart           | ❤️        | xin/ai            | 心/爱
@@ -24,6 +25,7 @@ Stars           | ✨        | xingxing          | 星星
 Poop            | 💩        | dabian            | 大便
 Couple          | 👫        | qinglv            | 情侣
 Friends         | 👬        | pengyou           | 朋友
+Sisters         | 👭        | jiemei            | 姐妹
 Rose            | 🌹        | hua               | 花
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Boy             | 👦        | nanhai/erzi       | 男孩/儿子
