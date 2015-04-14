@@ -20,6 +20,8 @@ Crying          | 😢        | kuqi              | 哭泣/哭
 Crying a lot    | 😭        | daku              | 大哭
 Horrified       | 😱        | kongbu            | 恐怖
 Thinking        | 😔        | sikao             | 思考
+Not looking     | 🙈        | kanbujian         | 看不见
+Not listening   | 🙉        | tingbudao         | 听不到
 Heart           | ❤️        | xin/ai            | 心/爱
 Stars           | ✨        | xingxing          | 星星
 Poop            | 💩        | dabian            | 大便
