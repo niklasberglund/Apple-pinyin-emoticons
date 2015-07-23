@@ -74,6 +74,8 @@ Tree            | 🌲        | shu               | 树
 Clothes         | 👔        | yifu              | 衣服
 Work            | 💼        | shangban          | 上班
 OK              | 👌        | hao               | 好
+Thumbs up       | 👍        | zan               | 赞
+Thumbs down     | 👎        | buhao             | 不好
 Refuel          | ⛽️        | jiayou            | 加油
 Waving hand     | 👋        | shou/zaijian      | 手/再见
 Hear/Ear        | 👂        | ting/erduo        | 听/耳朵
