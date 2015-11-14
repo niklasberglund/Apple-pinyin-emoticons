@@ -56,6 +56,9 @@ Sweat           | 💦        | liuhan            | 流汗
 Bowl of rice    | 🍚        | mifan             | 米饭
 Bowl of noodles | 🍜        | miantiao          | 面条
 Cup of tea      | 🍵        | cha               | 茶
+Beer            | 🍺        | pijiu             | 啤酒
+Beer toast      | 🍻        | pijiu             | 啤酒
+Red wine        | 🍷        | hongjiu           | 红酒
 Boat            | 🚢        | chuan             | 船
 Plane           | ✈️        | feiji             | 飞机
 Car             | 🚗        | che               | 车
