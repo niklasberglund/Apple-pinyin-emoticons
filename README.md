@@ -71,6 +71,7 @@ Metro train     | 🚇        | ditie             | 地铁
 Cable car       | 🚠        | lanche            | 缆车
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
+Dancing         | 💃        | tiaowu            | 跳舞
 Fire            | 🔥        | huo               | 火
 House           | 🏠        | jia/fangzi        | 家/房子
 Tree            | 🌲        | shu               | 树
@@ -103,3 +104,4 @@ Seven           | 7⃣️        | qi                | 七
 Eight           | 8⃣️        | ba                | 八
 Nine            | 9⃣️        | jiu               | 九
 Ten             | 🔟        | shi               | 十
+Plus            | ➕        | jia               | 加
