@@ -28,6 +28,7 @@ Poop            | 💩        | dabian            | 大便
 Couple          | 👫        | qinglv            | 情侣
 Friends         | 👬        | pengyou           | 朋友
 Sisters         | 👭        | jiemei            | 姐妹
+Avatar          | 👤        | geren             | 个人
 Rose            | 🌹        | hua               | 花
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Boy             | 👦        | nanhai/erzi       | 男孩/儿子
