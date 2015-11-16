@@ -40,6 +40,7 @@ Glasses         | 👓        | yanjing           | 眼镜
 Door            | 🚪        | men               | 门
 Police man      | 👮        | jingcha           | 警察
 Princess        | 👸        | gongzhu           | 公主
+Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
 Moon            | 🌛        | yueliang          | 月亮
 Sun             | 🌞        | taiyang           | 太阳
 Sheep           | 🐑        | yang              | 羊
