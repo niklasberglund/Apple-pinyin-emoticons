@@ -70,12 +70,14 @@ Train           | 🚄        | huoche            | 火车
 Cargo truck     | 🚚        | huoche            | 货车
 Metro train     | 🚇        | ditie             | 地铁
 Cable car       | 🚠        | lanche            | 缆车
+Seat            | 💺        | zuowei            | 座位
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
 Fire            | 🔥        | huo               | 火
 House           | 🏠        | jia/fangzi        | 家/房子
 Tree            | 🌲        | shu               | 树
+Recycle         | ♻️        | huanbao           | 环保
 Clothes         | 👔        | yifu              | 衣服
 Work            | 💼        | shangban          | 上班
 OK              | 👌        | hao               | 好
