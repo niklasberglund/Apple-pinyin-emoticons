@@ -91,6 +91,7 @@ Speak           | 👄        | shuohua           | 说话
 Tongue          | 👅        | shetou            | 舌头
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
+Versus          | 🆚        | bi                | 比
 New             | 🆕        | xin               | 新
 Up              | ⬆️        | shang             | 上
 Down            | ⬇️        | xia               | 下
