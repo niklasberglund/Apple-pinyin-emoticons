@@ -88,6 +88,7 @@ Tree            | 🌲        | shu               | 树
 Recycle         | ♻️        | huanbao           | 环保
 Clothes         | 👔        | yifu              | 衣服
 Work            | 💼        | shangban          | 上班
+School bag      | 🎒        | shangxue          | 上学
 OK              | 👌        | hao               | 好
 Thumbs up       | 👍        | zan               | 赞
 Thumbs down     | 👎        | buhao             | 不好
