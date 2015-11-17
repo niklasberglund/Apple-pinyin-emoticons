@@ -72,6 +72,9 @@ Cargo truck     | 🚚        | huoche            | 货车
 Metro train     | 🚇        | ditie             | 地铁
 Cable car       | 🚠        | lanche            | 缆车
 Seat            | 💺        | zuowei            | 座位
+Computer        | 💻        | diannao           | 电脑
+Smartphone      | 📱        | shouji            | 手机
+Light bulb      | 💡        | dengpao           | 灯泡
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
