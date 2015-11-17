@@ -119,3 +119,15 @@ Eight           | 8⃣️        | ba                | 八
 Nine            | 9⃣️        | jiu               | 九
 Ten             | 🔟        | shi               | 十
 Plus            | ➕        | jia               | 加
+1 o'clock       | 🕐        | yidian            | 一点
+2 o'clock       | 🕑        | liangdian         | 两点
+3 o'clock       | 🕒        | sandian           | 三点
+4 o'clock       | 🕓        | sidian            | 四点
+5 o'clock       | 🕔        | wudian            | 五点
+6 o'clock       | 🕕        | liudian           | 六点
+7 o'clock       | 🕖        | qidian            | 七点
+8 o'clock       | 🕗        | badian            | 八点
+9 o'clock       | 🕘        | jiudian           | 九点
+10 o'clock      | 🕙        | shidian           | 十点
+11 o'clock      | 🕚        | shiyidian         | 十一点
+12 o'clock      | 🕛        | shierdian         | 十二点
