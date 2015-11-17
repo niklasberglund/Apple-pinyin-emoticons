@@ -119,6 +119,7 @@ Eight           | 8⃣️        | ba                | 八
 Nine            | 9⃣️        | jiu               | 九
 Ten             | 🔟        | shi               | 十
 Plus            | ➕        | jia               | 加
+Minus           | ➖        | jian              | 减
 1 o'clock       | 🕐        | yidian            | 一点
 2 o'clock       | 🕑        | liangdian         | 两点
 3 o'clock       | 🕒        | sandian           | 三点
