@@ -74,6 +74,7 @@ Cable car       | 🚠        | lanche            | 缆车
 Seat            | 💺        | zuowei            | 座位
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
+Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
