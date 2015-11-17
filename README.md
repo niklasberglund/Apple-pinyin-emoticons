@@ -98,6 +98,7 @@ Clothes         | 👔        | yifu              | 衣服
 Work            | 💼        | shangban          | 上班
 School bag      | 🎒        | shangxue          | 上学
 OK              | 👌        | hao               | 好
+Fist bump       | 👊        | quantou           | 拳头
 Thumbs up       | 👍        | zan               | 赞
 Thumbs down     | 👎        | buhao             | 不好
 Writing         | ✍️        | xiezi             | 写字
@@ -111,6 +112,8 @@ Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
 Versus          | 🆚        | bi                | 比
 New             | 🆕        | xin               | 新
+Verify          | ✅        | queding           | 确定
+Verify #2       | ☑️        | queding           | 确定
 Up              | ⬆️        | shang             | 上
 Down            | ⬇️        | xia               | 下
 Left            | ⬅️        | zuo               | 左
