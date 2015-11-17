@@ -76,6 +76,9 @@ Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
 Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
+High heel shoe  | 👠        | nvxie             | 女鞋
+Leather shoe    | 👞        | nanxie            | 难写
+White shoe      | 👟        | xie               | 鞋
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
