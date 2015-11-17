@@ -46,11 +46,13 @@ Sun             | 🌞        | taiyang           | 太阳
 Sheep           | 🐑        | yang              | 羊
 Ox              | 🐂        | niu               | 牛
 Cow             | 🐮        | muniu             | 母牛
+Rabbit          | 🐰        | tuzi              | 兔子
 Dog             | 🐶        | gou               | 狗
 Cat             | 🐱        | mao               | 猫
 Tiger           | 🐯        | hu                | 虎
 Mouse           | 🐭        | laoshu            | 老鼠
 Monkey          | 🐒        | houzi             | 猴子
+Elephant        | 🐘        | daxiang           | 大象
 Horse           | 🐎        | ma                | 马
 Milk cow        | 🐄        | nainiu            | 奶牛
 Fish            | 🐟        | yu                | 鱼
