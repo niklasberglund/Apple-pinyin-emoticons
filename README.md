@@ -117,6 +117,7 @@ Speak           | 👄        | shuohua           | 说话
 Tongue          | 👅        | shetou            | 舌头
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
+Typhoon         | 🌀        | taifeng           | 台风
 Versus          | 🆚        | bi                | 比
 New             | 🆕        | xin               | 新
 Verify          | ✅        | queding           | 确定
