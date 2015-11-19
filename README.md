@@ -97,6 +97,11 @@ White shoe      | 👟        | xie               | 鞋
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
+Ping pong pad   | 🏓️        | pingpangqiu       | 乒乓球
+Tennis ball     | 🎾        | wangqiu           | 网球
+Basketball      | 🏀        | lanqiu            | 篮球
+Football        | ⚽️        | zuqiu             | 足球
+Badminton racket | 🏸️       | yumaoqiu          | 羽毛球
 Fire            | 🔥        | huo               | 火
 House           | 🏠        | jia/fangzi        | 家/房子
 Tree            | 🌲        | shu               | 树
