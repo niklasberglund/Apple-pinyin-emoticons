@@ -43,6 +43,7 @@ Princess        | 👸        | gongzhu           | 公主
 Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
 Moon            | 🌛        | yueliang          | 月亮
 Sun             | 🌞        | taiyang           | 太阳
+Bee             | 🐝        | mifeng            | 蜜蜂
 Fish            | 🐟        | yu                | 鱼
 Fish #2         | 🐠        | yu                | 鱼
 Sheep           | 🐑        | yang              | 羊
