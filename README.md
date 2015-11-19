@@ -118,10 +118,12 @@ Tongue          | 👅        | shetou            | 舌头
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
 Typhoon         | 🌀        | taifeng           | 台风
-Versus          | 🆚        | bi                | 比
-New             | 🆕        | xin               | 新
+Plus            | ➕        | jia               | 加
+Minus           | ➖        | jian              | 减
 Verify          | ✅        | queding           | 确定
 Verify #2       | ☑️        | queding           | 确定
+Versus          | 🆚        | bi                | 比
+New             | 🆕        | xin               | 新
 Up              | ⬆️        | shang             | 上
 Down            | ⬇️        | xia               | 下
 Left            | ⬅️        | zuo               | 左
@@ -137,8 +139,6 @@ Seven           | 7⃣️        | qi                | 七
 Eight           | 8⃣️        | ba                | 八
 Nine            | 9⃣️        | jiu               | 九
 Ten             | 🔟        | shi               | 十
-Plus            | ➕        | jia               | 加
-Minus           | ➖        | jian              | 减
 1 o'clock       | 🕐        | yidian            | 一点
 2 o'clock       | 🕑        | liangdian         | 两点
 3 o'clock       | 🕒        | sandian           | 三点
