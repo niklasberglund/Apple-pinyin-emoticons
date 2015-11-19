@@ -54,6 +54,7 @@ Dog             | 🐶        | gou               | 狗
 Cat             | 🐱        | mao               | 猫
 Tiger           | 🐯        | hu                | 虎
 Mouse           | 🐭        | laoshu            | 老鼠
+Wolf            | 🐺        | lang              | 狼
 Bear            | 🐻        | xiong             | 熊
 Panda           | 🐼        | xiongmao          | 熊猫
 Monkey          | 🐒        | houzi             | 猴子
