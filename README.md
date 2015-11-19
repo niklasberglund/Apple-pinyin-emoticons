@@ -124,6 +124,8 @@ Verify          | ✅        | queding           | 确定
 Verify #2       | ☑️        | queding           | 确定
 Versus          | 🆚        | bi                | 比
 New             | 🆕        | xin               | 新
+Upload          | ⏫        | shangchuan        | 上传
+Download        | ⏬        | xiazai            | 下载
 Up              | ⬆️        | shang             | 上
 Down            | ⬇️        | xia               | 下
 Left            | ⬅️        | zuo               | 左
