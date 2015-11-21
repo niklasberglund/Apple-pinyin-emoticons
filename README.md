@@ -60,6 +60,7 @@ Panda           | 🐼        | xiongmao          | 熊猫
 Monkey          | 🐒        | houzi             | 猴子
 Elephant        | 🐘        | daxiang           | 大象
 Turtle          | 🐢        | wugui             | 乌龟
+Frog            | 🐸        | qingwa            | 青蛙
 Bird            | 🐦        | niao              | 鸟
 Chicken         | 🐤        | xiaoji            | 小鸡
 Standing chicken |  🐥      | xiaoji            | 小鸡
