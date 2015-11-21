@@ -53,6 +53,7 @@ Rabbit          | 🐰        | tuzi              | 兔子
 Dog             | 🐶        | gou               | 狗
 Cat             | 🐱        | mao               | 猫
 Tiger           | 🐯        | hu                | 虎
+Lion            | 🦁️        | shizi             | 狮子
 Mouse           | 🐭        | laoshu            | 老鼠
 Wolf            | 🐺        | lang              | 狼
 Bear            | 🐻        | xiong             | 熊
