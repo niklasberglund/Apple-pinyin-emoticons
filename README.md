@@ -103,6 +103,8 @@ White shoe      | 👟        | xie               | 鞋
 Running         | 🏃        | paobu             | 跑步
 Swimming        | 🏊        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
+Snowboarding    | 🏂        | huaxueban         | 滑雪板
+Playing basketball | ⛹️     | dalanqiu          | 打篮球
 Ping pong pad   | 🏓️        | pingpangqiu       | 乒乓球
 Tennis ball     | 🎾        | wangqiu           | 网球
 Basketball      | 🏀        | lanqiu            | 篮球
