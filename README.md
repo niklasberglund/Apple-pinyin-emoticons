@@ -58,6 +58,7 @@ Wolf            | 🐺        | lang              | 狼
 Bear            | 🐻        | xiong             | 熊
 Panda           | 🐼        | xiongmao          | 熊猫
 Monkey          | 🐒        | houzi             | 猴子
+Snake           | 🐍        | she               | 蛇
 Elephant        | 🐘        | daxiang           | 大象
 Turtle          | 🐢        | wugui             | 乌龟
 Frog            | 🐸        | qingwa            | 青蛙
