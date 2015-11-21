@@ -96,6 +96,7 @@ Smartphone      | 📱        | shouji            | 手机
 Label           | 🏷️        | biaoqian          | 标签
 Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
+Kimono          | 👘        | hefu              | 和服
 High heel shoe  | 👠        | nvxie             | 女鞋
 Leather shoe    | 👞        | nanxie            | 难写
 White shoe      | 👟        | xie               | 鞋
