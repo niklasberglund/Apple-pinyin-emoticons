@@ -47,6 +47,9 @@ Sun             | 🌞        | taiyang           | 太阳
 Bee             | 🐝        | mifeng            | 蜜蜂
 Fish            | 🐟        | yu                | 鱼
 Fish #2         | 🐠        | yu                | 鱼
+Dolphin         | 🐬        | haitun            | 海豚
+Whale           | 🐳        | jingyu            | 鲸鱼
+Whale #2        | 🐋        | jingyu            | 鲸鱼
 Sheep           | 🐑        | yang              | 羊
 Ox              | 🐂        | niu               | 牛
 Cow             | 🐮        | muniu             | 母牛
@@ -64,6 +67,7 @@ Snake           | 🐍        | she               | 蛇
 Elephant        | 🐘        | daxiang           | 大象
 Turtle          | 🐢        | wugui             | 乌龟
 Frog            | 🐸        | qingwa            | 青蛙
+Dragon          | 🐲        | long              | 龙
 Bird            | 🐦        | niao              | 鸟
 Chicken         | 🐤        | xiaoji            | 小鸡
 Standing chicken |  🐥      | xiaoji            | 小鸡
