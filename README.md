@@ -105,6 +105,7 @@ Joystick        | 🕹️        | caozonggan        | 操纵杆
 Label           | 🏷️        | biaoqian          | 标签
 Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
+Crystal ball    | 🔮        | shuijingqiu       | 水晶球
 Kimono          | 👘        | hefu              | 和服
 High heel shoe  | 👠        | nvxie             | 女鞋
 Leather shoe    | 👞        | nanxie            | 难写
