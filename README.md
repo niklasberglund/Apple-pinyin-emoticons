@@ -42,6 +42,7 @@ Police man      | 👮        | jingcha           | 警察
 Princess        | 👸        | gongzhu           | 公主
 Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
 Robot           | 🤖️        | jiqiren           | 机器人
+Guard           | 💂        | weishi            | 卫士
 Moon            | 🌛        | yueliang          | 月亮
 Sun             | 🌞        | taiyang           | 太阳
 Bee             | 🐝        | mifeng            | 蜜蜂
