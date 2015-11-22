@@ -133,6 +133,7 @@ Hear/Ear        | 👂        | ting/erduo        | 听/耳朵
 Look/Eyes       | 👀        | kan/yanjing       | 看/眼睛
 Speak           | 👄        | shuohua           | 说话
 Tongue          | 👅        | shetou            | 舌头
+Statue of liberty | 🗽      | ziyounvshen       | 自由女神
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
 Typhoon         | 🌀        | taifeng           | 台风
