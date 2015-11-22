@@ -100,6 +100,8 @@ Rocket          | 🚀        | huojian           | 火箭
 Seat            | 💺        | zuowei            | 座位
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
+Game pad        | 🎮        | youxi             | 游戏
+Joystick        | 🕹️        | caozonggan        | 操纵杆
 Label           | 🏷️        | biaoqian          | 标签
 Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
