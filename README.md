@@ -143,6 +143,8 @@ Tongue          | 👅        | shetou            | 舌头
 Statue of liberty | 🗽      | ziyounvshen       | 自由女神
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
+Rain #1         | 🌧️        | xiayu             | 下雨
+Rain #2         | ☔️        | xiayu             | 下雨
 Typhoon         | 🌀        | taifeng           | 台风
 Plus            | ➕        | jia               | 加
 Minus           | ➖        | jian              | 减
