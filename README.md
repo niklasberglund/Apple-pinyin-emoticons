@@ -17,6 +17,7 @@ Angry           | 😠        | shengqi           | 生气
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
 Cold            | 😷        | ganmao            | 感冒
+Injured         | 🤕️        | shoushang         | 受伤
 Crying          | 😢        | kuqi              | 哭泣/哭
 Crying a lot    | 😭        | daku              | 大哭
 Horrified       | 😱        | kongbu            | 恐怖
