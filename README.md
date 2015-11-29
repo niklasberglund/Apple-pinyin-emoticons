@@ -9,6 +9,7 @@ Description     | Emoticon |  Pinyin           | Chinese
 --------------- | -------- | ----------------- | -------
 Happy           | 😊        | gaoxing           | 高兴
 Laughing        | 😄        | kaixin            | 开心
+Blink           | 😉        | qingsong          | 轻松
 Blowing a kiss  | 😘        | qinqin            | 亲亲
 Heart eyes      | 😍        | xihuan/aini       | 喜欢/爱你
 In pain         | 😫        | nanguo            | 难过
