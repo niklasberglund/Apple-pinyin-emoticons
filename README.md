@@ -124,6 +124,7 @@ Football        | ⚽️        | zuqiu             | 足球
 Badminton racket | 🏸️       | yumaoqiu          | 羽毛球
 Fire            | 🔥        | huo               | 火
 House           | 🏠        | jia/fangzi        | 家/房子
+Shrine          | ⛩️        | shenshe           | 神社
 Tree            | 🌲        | shu               | 树
 Recycle         | ♻️        | huanbao           | 环保
 Clothes         | 👔        | yifu              | 衣服
