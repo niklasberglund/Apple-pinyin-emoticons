@@ -151,6 +151,7 @@ Versus          | 🆚        | bi                | 比
 New             | 🆕        | xin               | 新
 Man             | 🚹        | nanshi            | 男士
 Woman           | 🚺        | nvshi             | 女士
+Trash bin       | 🚮        | lajitong          | 垃圾桶
 Upload          | ⏫        | shangchuan        | 上传
 Download        | ⏬        | xiazai            | 下载
 Up              | ⬆️        | shang             | 上
