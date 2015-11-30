@@ -89,6 +89,8 @@ Chocolate bar   | 🍫        | qiaokeli          | 巧克力
 Beer            | 🍺        | pijiu             | 啤酒
 Beer toast      | 🍻        | pijiu             | 啤酒
 Red wine        | 🍷        | hongjiu           | 红酒
+Coffee          | ☕️        | kafei             | 咖啡
+Tea             | 🍵        | cha               | 茶
 Boat            | 🚢        | chuan             | 船
 Plane           | ✈️        | feiji             | 飞机
 Car             | 🚗        | che               | 车
