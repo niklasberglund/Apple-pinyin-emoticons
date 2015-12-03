@@ -115,6 +115,7 @@ Kimono          | 👘        | hefu              | 和服
 High heel shoe  | 👠        | nvxie             | 女鞋
 Leather shoe    | 👞        | nanxie            | 难写
 White shoe      | 👟        | xie               | 鞋
+Sandals         | 👡        | liangxie          | 凉鞋
 Running         | 🏃        | paobu             | 跑步
 Cycling         | 🚴        | shandiche         | 山地车
 Swimming        | 🏊        | youyong           | 游泳
