@@ -91,6 +91,7 @@ Beer toast      | 🍻        | pijiu             | 啤酒
 Red wine        | 🍷        | hongjiu           | 红酒
 Coffee          | ☕️        | kafei             | 咖啡
 Tea             | 🍵        | cha               | 茶
+Juice           | 🍹        | guozhi            | 果汁
 Boat            | 🚢        | chuan             | 船
 Plane           | ✈️        | feiji             | 飞机
 Car             | 🚗        | che               | 车
