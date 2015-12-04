@@ -53,6 +53,9 @@ Sun             | 🌞        | taiyang           | 太阳
 Grapes          | 🍇        | putao             | 葡萄
 Red apple       | 🍎        | pingguo           | 苹果
 Green apple     | 🍏        | pingguo           | 苹果
+Banana          | 🍌        | xiangjiao         | 香蕉
+Watermelon      | 🍉        | xigua             | 西瓜
+Pumpkin         | 🎃        | nangua            | 南瓜
 Bee             | 🐝        | mifeng            | 蜜蜂
 Fish            | 🐟        | yu                | 鱼
 Fish #2         | 🐠        | yu                | 鱼
