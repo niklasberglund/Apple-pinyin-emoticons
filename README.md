@@ -40,6 +40,7 @@ Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Boy             | 👦        | nanhai/erzi       | 男孩/儿子
 Baby            | 👶        | baobao            | 宝宝
+Alien           | 👽        | waixingren        | 外星人
 Money bag       | 💰        | qian              | 钱
 Tool            | 🔧        | gongju            | 工具
 Mobile phone    | 📱        | shouji            | 手机
