@@ -144,6 +144,7 @@ Fire            | 🔥        | huo               | 火
 House           | 🏠        | jia/fangzi        | 家/房子
 Shrine          | ⛩️        | shenshe           | 神社
 Tree            | 🌲        | shu               | 树
+Christmas tree  | 🎄        | shengdanshu       | 圣诞树
 Recycle         | ♻️        | huanbao           | 环保
 Clothes         | 👔        | yifu              | 衣服
 Work            | 💼        | shangban          | 上班
