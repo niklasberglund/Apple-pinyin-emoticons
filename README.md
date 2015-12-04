@@ -35,6 +35,8 @@ Friends         | 👬        | pengyou           | 朋友
 Sisters         | 👭        | jiemei            | 姐妹
 Avatar          | 👤        | geren             | 个人
 Rose            | 🌹        | hua               | 花
+Man             | 👨        | nanren            | 男人
+Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Boy             | 👦        | nanhai/erzi       | 男孩/儿子
 Baby            | 👶        | baobao            | 宝宝
