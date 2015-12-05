@@ -94,6 +94,7 @@ Fish            | 🐟        | yu                | 鱼
 Sweat           | 💦        | liuhan            | 流汗
 Bowl of rice    | 🍚        | mifan             | 米饭
 Bowl of noodles | 🍜        | miantiao          | 面条
+Take-out food   | 🍱        | kuaican           | 快餐
 Cup of tea      | 🍵        | cha               | 茶
 Candy           | 🍬        | tangguo           | 糖果
 Chocolate bar   | 🍫        | qiaokeli          | 巧克力
