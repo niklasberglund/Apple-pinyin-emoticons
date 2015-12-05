@@ -173,6 +173,7 @@ Verify          | ✅        | queding           | 确定
 Verify #2       | ☑️        | queding           | 确定
 Versus          | 🆚        | bi                | 比
 New             | 🆕        | xin               | 新
+Physics         | ⚛️        | wuli              | 物理
 Man             | 🚹        | nanshi            | 男士
 Woman           | 🚺        | nvshi             | 女士
 Trash bin       | 🚮        | lajitong          | 垃圾桶
