@@ -58,6 +58,7 @@ Red apple       | 🍎        | pingguo           | 苹果
 Green apple     | 🍏        | pingguo           | 苹果
 Banana          | 🍌        | xiangjiao         | 香蕉
 Watermelon      | 🍉        | xigua             | 西瓜
+Strawberry      | 🍓        | caomei            | 草莓
 Pumpkin         | 🎃        | nangua            | 南瓜
 Bee             | 🐝        | mifeng            | 蜜蜂
 Fish            | 🐟        | yu                | 鱼
