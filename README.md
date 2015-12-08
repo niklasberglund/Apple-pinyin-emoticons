@@ -145,7 +145,8 @@ Badminton racket | 🏸️       | yumaoqiu          | 羽毛球
 Fire            | 🔥        | huo               | 火
 House           | 🏠        | jia/fangzi        | 家/房子
 Shrine          | ⛩️        | shenshe           | 神社
-Tree            | 🌲        | shu               | 树
+Tree #1         | 🌳        | shu               | 树
+Tree #2         | 🌲        | shu               | 树
 Christmas tree  | 🎄        | shengdanshu       | 圣诞树
 Recycle         | ♻️        | huanbao           | 环保
 Clothes         | 👔        | yifu              | 衣服
