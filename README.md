@@ -49,6 +49,8 @@ Door            | 🚪        | men               | 门
 Police man      | 👮        | jingcha           | 警察
 Princess        | 👸        | gongzhu           | 公主
 Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
+Snow man #1     | ⛄️        | xueren            | 雪人
+Snow man #2     | ☃️        | xueren            | 雪人
 Robot           | 🤖️        | jiqiren           | 机器人
 Guard           | 💂        | weishi            | 卫士
 Moon            | 🌛        | yueliang          | 月亮
@@ -179,6 +181,7 @@ Physics         | ⚛️        | wuli              | 物理
 Man             | 🚹        | nanshi            | 男士
 Woman           | 🚺        | nvshi             | 女士
 Trash bin       | 🚮        | lajitong          | 垃圾桶
+OK              | 🆗        | hao               | 好
 Upload          | ⏫        | shangchuan        | 上传
 Download        | ⏬        | xiazai            | 下载
 Up              | ⬆️        | shang             | 上
