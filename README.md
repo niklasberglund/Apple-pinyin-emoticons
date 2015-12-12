@@ -172,6 +172,7 @@ Rain #1         | 🌧️        | xiayu             | 下雨
 Rain #2         | ☔️        | xiayu             | 下雨
 Typhoon         | 🌀        | taifeng           | 台风
 Snowy mountain  | 🏔️        | xueshan           | 雪山
+Tent            | ⛺️        | zhangpeng         | 帐篷
 Plus            | ➕        | jia               | 加
 Minus           | ➖        | jian              | 减
 Verify          | ✅        | queding           | 确定
