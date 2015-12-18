@@ -8,7 +8,9 @@ Apple's OS X and iOS Chinese pinyin input can be used for emoticon input. This i
 Description     | Emoticon |  Pinyin           | Chinese
 --------------- | -------- | ----------------- | -------
 Happy           | 😊        | gaoxing           | 高兴
-Laughing        | 😄        | kaixin            | 开心
+Laughing #1     | 😄        | kaixin            | 开心
+Laughing #2     | 😃        | kaixin            | 开心
+Laughing #3     | 😆        | kaixin            | 开心
 Blink           | 😉        | qingsong          | 轻松
 Kiss            | 😚        | qinqin            | 亲亲
 Blowing a kiss  | 😘        | qinqin            | 亲亲
