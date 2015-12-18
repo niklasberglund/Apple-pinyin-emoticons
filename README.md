@@ -13,6 +13,7 @@ Blink           | 😉        | qingsong          | 轻松
 Kiss            | 😚        | qinqin            | 亲亲
 Blowing a kiss  | 😘        | qinqin            | 亲亲
 Kissing cat     | 😽        | qinqin            | 亲亲
+Cat laughing hard | 😹      | gandong           | 感动
 Heart eyes      | 😍        | xihuan/aini       | 喜欢/爱你
 In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
@@ -128,6 +129,7 @@ Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
 Crystal ball    | 🔮        | shuijingqiu       | 水晶球
 Movie recording | 🎬        | paishe            | 拍摄
+Thermometer     | 🌡️        | wenduji           | 温度计
 Kimono          | 👘        | hefu              | 和服
 High heel shoe  | 👠        | nvxie             | 女鞋
 Leather shoe    | 👞        | nanxie            | 难写
