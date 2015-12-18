@@ -20,6 +20,7 @@ In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
+Gloria          | 😇        | tianshi           | 天使
 Cold            | 😷        | ganmao            | 感冒
 Injured         | 🤕️        | shoushang         | 受伤
 Crying          | 😢        | kuqi              | 哭泣/哭
@@ -29,6 +30,7 @@ Thinking        | 😔        | sikao             | 思考
 Happy cat       | 😺        | kaixin            | 开心
 Kissing cat     | 😽        | qinqin            | 亲亲
 Cat laughing hard | 😹      | gandong           | 感动
+Angel           | 👼        | tianshi           | 天使
 Skull           | 💀        | siwang            | 死亡
 Not looking     | 🙈        | kanbujian         | 看不见
 Not listening   | 🙉        | tingbudao         | 听不到
