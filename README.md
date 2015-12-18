@@ -35,7 +35,11 @@ Couple          | 👫        | qinglv            | 情侣
 Friends         | 👬        | pengyou           | 朋友
 Sisters         | 👭        | jiemei            | 姐妹
 Avatar          | 👤        | geren             | 个人
-Rose            | 🌹        | hua               | 花
+Flower #1 / rose | 🌹        | hua               | 花
+Flower #2       | 💐        | hua               | 花
+Flower #3       | 🌼        | hua               | 花
+Flower #4       | 🌺        | hua               | 花
+Flower #5       | 🌸        | hua               | 花
 Man             | 👨        | nanren            | 男人
 Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
