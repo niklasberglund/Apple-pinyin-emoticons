@@ -12,8 +12,6 @@ Laughing        | 😄        | kaixin            | 开心
 Blink           | 😉        | qingsong          | 轻松
 Kiss            | 😚        | qinqin            | 亲亲
 Blowing a kiss  | 😘        | qinqin            | 亲亲
-Kissing cat     | 😽        | qinqin            | 亲亲
-Cat laughing hard | 😹      | gandong           | 感动
 Heart eyes      | 😍        | xihuan/aini       | 喜欢/爱你
 In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
@@ -25,6 +23,8 @@ Crying          | 😢        | kuqi              | 哭泣/哭
 Crying a lot    | 😭        | daku              | 大哭
 Horrified       | 😱        | kongbu            | 恐怖
 Thinking        | 😔        | sikao             | 思考
+Kissing cat     | 😽        | qinqin            | 亲亲
+Cat laughing hard | 😹      | gandong           | 感动
 Skull           | 💀        | siwang            | 死亡
 Not looking     | 🙈        | kanbujian         | 看不见
 Not listening   | 🙉        | tingbudao         | 听不到
