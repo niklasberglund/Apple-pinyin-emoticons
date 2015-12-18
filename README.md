@@ -191,6 +191,7 @@ Download        | ⏬        | xiazai            | 下载
 Up              | ⬆️        | shang             | 上
 Down            | ⬇️        | xia               | 下
 Left            | ⬅️        | zuo               | 左
+Numbers         | 🔢        | shuzi             | 数字
 Right           | ➡️        | you               | 右
 Zero            | 0⃣️        | ling              | 零
 One             | 1⃣️        | yi                | 一
