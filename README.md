@@ -199,6 +199,7 @@ New             | 🆕        | xin               | 新
 Physics         | ⚛️        | wuli              | 物理
 Man             | 🚹        | nanshi            | 男士
 Woman           | 🚺        | nvshi             | 女士
+Toilet sign     | 🚾        | cesuo             | 厕所
 Trash bin       | 🚮        | lajitong          | 垃圾桶
 OK              | 🆗        | hao               | 好
 Upload          | ⏫        | shangchuan        | 上传
