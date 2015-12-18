@@ -40,6 +40,7 @@ Flower #2       | 💐        | hua               | 花
 Flower #3       | 🌼        | hua               | 花
 Flower #4       | 🌺        | hua               | 花
 Flower #5       | 🌸        | hua               | 花
+Flower #6       | 🌷        | hua               | 花
 Man             | 👨        | nanren            | 男人
 Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
