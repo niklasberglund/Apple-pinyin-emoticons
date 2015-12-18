@@ -23,6 +23,7 @@ Crying          | 😢        | kuqi              | 哭泣/哭
 Crying a lot    | 😭        | daku              | 大哭
 Horrified       | 😱        | kongbu            | 恐怖
 Thinking        | 😔        | sikao             | 思考
+Happy cat       | 😺        | kaixin            | 开心
 Kissing cat     | 😽        | qinqin            | 亲亲
 Cat laughing hard | 😹      | gandong           | 感动
 Skull           | 💀        | siwang            | 死亡
