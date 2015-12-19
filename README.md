@@ -140,6 +140,7 @@ Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
 Game pad        | 🎮        | youxi             | 游戏
 Joystick        | 🕹️        | caozonggan        | 操纵杆
+Battery         | 🔋        | dianchi           | 电池
 Label           | 🏷️        | biaoqian          | 标签
 Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
