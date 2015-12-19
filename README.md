@@ -121,7 +121,8 @@ Tea             | 🍵        | cha               | 茶
 Juice           | 🍹        | guozhi            | 果汁
 Boat            | 🚢        | chuan             | 船
 Plane           | ✈️        | feiji             | 飞机
-Car             | 🚗        | che               | 车
+Car #1          | 🚗        | che               | 车
+Car #2          | 🚘        | che               | 车
 Bus             | 🚌        | bashi/gongjiaoche | 巴士/公交车
 Taxi            | 🚕        | chuzuche          | 出租车
 Bicycle         | 🚲        | zixingche         | 自行车
