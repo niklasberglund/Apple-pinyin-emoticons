@@ -105,6 +105,9 @@ Chicken in egg  | 🐣        | xiaoji            | 小鸡
 Hen             | 🐔        | muji              | 母鸡
 Horse           | 🐎        | ma                | 马
 Milk cow        | 🐄        | nainiu            | 奶牛
+Pig #1          | 🐖        | zhu               | 猪
+Pig #2          | 🐗        | zhu               | 猪
+Pig face        | 🐷        | zhu               | 猪
 Fish            | 🐟        | yu                | 鱼
 Sweat           | 💦        | liuhan            | 流汗
 Bowl of rice    | 🍚        | mifan             | 米饭
