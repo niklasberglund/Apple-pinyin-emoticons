@@ -194,6 +194,7 @@ Cloud           | ☁️        | yun               | 云
 Rain #1         | 🌧️        | xiayu             | 下雨
 Rain #2         | ☔️        | xiayu             | 下雨
 Typhoon         | 🌀        | taifeng           | 台风
+Heat            | ♨️        | wenquan           | 温泉
 Snowy mountain  | 🏔️        | xueshan           | 雪山
 Tent            | ⛺️        | zhangpeng         | 帐篷
 On              | 🔛        | kaiqi             | 开启
