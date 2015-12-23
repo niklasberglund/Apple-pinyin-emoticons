@@ -137,6 +137,7 @@ Cable car       | 🚠        | lanche            | 缆车
 Rocket          | 🚀        | huojian           | 火箭
 Seat            | 💺        | zuowei            | 座位
 Toilet seat     | 🚽        | cesuo             | 厕所
+Calendar        | 📅        | riqi              | 日期
 Pen             | ✏️        | xiezuo            | 写作
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
