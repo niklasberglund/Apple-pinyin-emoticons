@@ -37,6 +37,7 @@ Not listening   | 🙉        | tingbudao         | 听不到
 Heart           | ❤️        | xin/ai            | 心/爱
 Stars           | ✨        | xingxing          | 星星
 Poop            | 💩        | dabian            | 大便
+Sweethearts     | 💑        | lianren           | 恋人
 Couple          | 👫        | qinglv            | 情侣
 Friends         | 👬        | pengyou           | 朋友
 Sisters         | 👭        | jiemei            | 姐妹
