@@ -18,6 +18,7 @@ Blowing a kiss  | 😘        | qinqin            | 亲亲
 Heart eyes      | 😍        | xihuan/aini       | 喜欢/爱你
 In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
+Indifferent     | 😒        | lengmo            | 冷漠
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
 Gloria          | 😇        | tianshi           | 天使
