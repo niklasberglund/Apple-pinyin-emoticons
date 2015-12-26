@@ -149,6 +149,7 @@ Battery         | 🔋        | dianchi           | 电池
 Label           | 🏷️        | biaoqian          | 标签
 Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
+Lantern         | 🏮        | denglong          | 灯笼
 Crystal ball    | 🔮        | shuijingqiu       | 水晶球
 Movie recording | 🎬        | paishe            | 拍摄
 Thermometer     | 🌡️        | wenduji           | 温度计
