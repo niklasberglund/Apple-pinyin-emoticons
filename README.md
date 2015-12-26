@@ -219,6 +219,7 @@ Woman           | 🚺        | nvshi             | 女士
 Toilet sign     | 🚾        | cesuo             | 厕所
 Trash bin       | 🚮        | lajitong          | 垃圾桶
 OK              | 🆗        | hao               | 好
+Up!             | 🆙        | ding              | 顶
 Upload          | ⏫        | shangchuan        | 上传
 Download        | ⏬        | xiazai            | 下载
 Up              | ⬆️        | shang             | 上
