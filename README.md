@@ -116,6 +116,9 @@ Bowl of rice    | 🍚        | mifan             | 米饭
 Bowl of noodles | 🍜        | miantiao          | 面条
 Take-out food   | 🍱        | kuaican           | 快餐
 Cup of tea      | 🍵        | cha               | 茶
+Hamburger       | 🍔        | hanbao            | 汉堡
+French fries    | 🍟        | shutiao           | 薯条
+Pizza           | 🍕        | pisa              | 披萨
 Candy           | 🍬        | tangguo           | 糖果
 Chocolate bar   | 🍫        | qiaokeli          | 巧克力
 Beer            | 🍺        | pijiu             | 啤酒
