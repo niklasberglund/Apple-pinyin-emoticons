@@ -223,6 +223,7 @@ Physics         | ⚛️        | wuli              | 物理
 Man             | 🚹        | nanshi            | 男士
 Woman           | 🚺        | nvshi             | 女士
 Toilet sign     | 🚾        | cesuo             | 厕所
+ID              | 🆔        | shenfen           | 身份
 Trash bin       | 🚮        | lajitong          | 垃圾桶
 OK              | 🆗        | hao               | 好
 Up!             | 🆙        | ding              | 顶
