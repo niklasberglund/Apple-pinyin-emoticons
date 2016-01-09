@@ -150,6 +150,7 @@ Calendar        | 📅        | riqi              | 日期
 Pen             | ✏️        | xiezuo            | 写作
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
+Trophy          | 🏆        | guanjun           | 冠军
 Game pad        | 🎮        | youxi             | 游戏
 Joystick        | 🕹️        | caozonggan        | 操纵杆
 Battery         | 🔋        | dianchi           | 电池
