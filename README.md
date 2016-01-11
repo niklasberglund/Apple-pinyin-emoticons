@@ -130,6 +130,8 @@ Coffee          | ☕️        | kafei             | 咖啡
 Tea             | 🍵        | cha               | 茶
 Juice           | 🍹        | guozhi            | 果汁
 Boat            | 🚢        | chuan             | 船
+Earth #1        | 🌍        | diqiu             | 地球
+Earth #2        | 🌏        | diqiu             | 地球
 Plane           | ✈️        | feiji             | 飞机
 Car #1          | 🚗        | che               | 车
 Car #2          | 🚘        | che               | 车
