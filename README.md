@@ -184,6 +184,8 @@ Badminton racket | 🏸️       | yumaoqiu          | 羽毛球
 Fire            | 🔥        | huo               | 火
 House #1        | 🏠        | jia/fangzi        | 家/房子
 House #2        | 🏡        | jia               | 家
+Church          | ⛪️        | jiaotang          | 教堂
+Church wedding  | 💒        | hunli             | 婚礼
 Shrine          | ⛩️        | shenshe           | 神社
 Tree #1         | 🌳        | shu               | 树
 Tree #2         | 🌲        | shu               | 树
