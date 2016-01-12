@@ -218,6 +218,7 @@ US Dollar #1    | 💲        | meiyuan           | 美元
 US Dollar #2    | 💵        | meiyuan           | 美元
 Japanese Yen    | 💴        | riyuan            | 日元
 Euro            | 💶        | ouyuan            | 欧元
+Cross           | ❌        | cuowu             | 错误
 On              | 🔛        | kaiqi             | 开启
 Plus            | ➕        | jia               | 加
 Minus           | ➖        | jian              | 减
