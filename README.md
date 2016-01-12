@@ -44,6 +44,7 @@ Sweethearts     | 💑        | lianren           | 恋人
 Couple          | 👫        | qinglv            | 情侣
 Friends         | 👬        | pengyou           | 朋友
 Sisters         | 👭        | jiemei            | 姐妹
+Asian wedding   | 🎎        | hunli             | 婚礼
 Avatar          | 👤        | geren             | 个人
 Flower #1 / rose | 🌹        | hua               | 花
 Flower #2       | 💐        | hua               | 花
