@@ -21,6 +21,7 @@ Angry           | 😠        | shengqi           | 生气
 Indifferent     | 😒        | lengmo            | 冷漠
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
+Tired           | 😪        | pilao             | 疲劳
 Gloria          | 😇        | tianshi           | 天使
 Cold            | 😷        | ganmao            | 感冒
 Injured         | 🤕️        | shoushang         | 受伤
