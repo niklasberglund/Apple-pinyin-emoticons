@@ -137,7 +137,10 @@ Earth #2        | 🌏        | diqiu             | 地球
 Plane           | ✈️        | feiji             | 飞机
 Car #1          | 🚗        | che               | 车
 Car #2          | 🚘        | che               | 车
-Bus             | 🚌        | bashi/gongjiaoche | 巴士/公交车
+Bus #1          | 🚌        | gongche           | 公车
+Bus #2          | 🚍        | gongche           | 公车
+Bus #3          | 🚐        | gongche           | 公车
+Bus #4          | 🚎        | gongche           | 公车
 Taxi            | 🚕        | chuzuche          | 出租车
 Passenger boat  | 🛳️        | kechuan           | 客船
 Bicycle         | 🚲        | zixingche         | 自行车
