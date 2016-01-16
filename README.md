@@ -135,6 +135,7 @@ Boat            | 🚢        | chuan             | 船
 Earth #1        | 🌍        | diqiu             | 地球
 Earth #2        | 🌏        | diqiu             | 地球
 Plane           | ✈️        | feiji             | 飞机
+Holiday         | ⛱️        | dujia             | 度假
 Car #1          | 🚗        | che               | 车
 Car #2          | 🚘        | che               | 车
 Bus #1          | 🚌        | gongche           | 公车
@@ -154,6 +155,7 @@ Toilet seat     | 🚽        | cesuo             | 厕所
 Bathtub         | 🛀        | xizao             | 洗澡
 Shower          | 🚿        | xizao             | 洗澡
 Calendar        | 📅        | riqi              | 日期
+Book            | 📖        | chaxun            | 查询
 Pen             | ✏️        | xiezuo            | 写作
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
