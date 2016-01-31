@@ -159,6 +159,7 @@ Book            | 📖        | chaxun            | 查询
 Pen             | ✏️        | xiezuo            | 写作
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
+Bed             | 🛏️        | chuang            | 床
 Guitar          | 🎸        | jita              | 吉他
 Trophy          | 🏆        | guanjun           | 冠军
 Game pad        | 🎮        | youxi             | 游戏
