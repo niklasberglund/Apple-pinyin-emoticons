@@ -121,6 +121,7 @@ Bowl of noodles | 🍜        | miantiao          | 面条
 Take-out food   | 🍱        | kuaican           | 快餐
 Cup of tea      | 🍵        | cha               | 茶
 Bread           | 🍞        | mianbao           | 面包
+Domut           | 🍩        | mianbaoquan       | 面包圈
 Hamburger       | 🍔        | hanbao            | 汉堡
 French fries    | 🍟        | shutiao           | 薯条
 Pizza           | 🍕        | pisa              | 披萨
