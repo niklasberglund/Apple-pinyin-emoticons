@@ -86,6 +86,7 @@ Fish #2         | 🐠        | yu                | 鱼
 Dolphin         | 🐬        | haitun            | 海豚
 Whale           | 🐳        | jingyu            | 鲸鱼
 Whale #2        | 🐋        | jingyu            | 鲸鱼
+Penguin         | 🐧        | qi'e              | 企鹅
 Sheep           | 🐑        | yang              | 羊
 Ox              | 🐂        | niu               | 牛
 Cow             | 🐮        | muniu             | 母牛
