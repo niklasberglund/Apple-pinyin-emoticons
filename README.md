@@ -54,9 +54,10 @@ Flower #4       | 🌺        | hua               | 花
 Flower #5       | 🌸        | hua               | 花
 Flower #6       | 🌷        | hua               | 花
 Man             | 👨        | nanren            | 男人
+Young man       | 👱        | nianqingren       | 年轻人
+Boy             | 👦        | nanhai/erzi       | 男孩/儿子
 Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
-Boy             | 👦        | nanhai/erzi       | 男孩/儿子
 Baby            | 👶        | baobao            | 宝宝
 Alien           | 👽        | waixingren        | 外星人
 Money bag       | 💰        | qian              | 钱
