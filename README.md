@@ -125,6 +125,7 @@ Fish            | 🐟        | yu                | 鱼
 Sweat           | 💦        | liuhan            | 流汗
 Bowl of rice    | 🍚        | mifan             | 米饭
 Bowl of noodles | 🍜        | miantiao          | 面条
+Cook            | 🍳        | pengren           | 烹饪
 Take-out food   | 🍱        | kuaican           | 快餐
 Cup of tea      | 🍵        | cha               | 茶
 Bread           | 🍞        | mianbao           | 面包
