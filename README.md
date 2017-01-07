@@ -252,6 +252,7 @@ Toilet sign     | 🚾        | cesuo             | 厕所
 ID              | 🆔        | shenfen           | 身份
 Trash bin       | 🚮        | lajitong          | 垃圾桶
 OK              | 🆗        | hao               | 好
+Free            | 🆓        | mianfei           | 免费
 Up!             | 🆙        | ding              | 顶
 Upload          | ⏫        | shangchuan        | 上传
 Download        | ⏬        | xiazai            | 下载
