@@ -42,6 +42,7 @@ Angel           | 👼        | tianshi           | 天使
 Bride           | 👰        | xinniang          | 新娘
 Begging for forgiveness | 🙇 | kenqiu           | 恳求
 Skull           | 💀        | siwang            | 死亡
+Demon           | 👹        | mogui             | 魔鬼
 Not looking     | 🙈        | kanbujian         | 看不见
 Not listening   | 🙉        | tingbudao         | 听不到
 Heart           | ❤️        | xin/ai            | 心/爱
