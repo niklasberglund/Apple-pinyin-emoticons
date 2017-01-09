@@ -9,6 +9,7 @@ Enter pinyin with a pinyin keyboard(e.g. _Pinyin - Simplified_) and the emoticon
 
 
 ## Pinyin to emoticon mapping
+_This mapping is for iOS 10 and macOS Sierra. Most emoticons can also be found in older versions, but some are not available._
 
 Description     | Emoticon |  Pinyin           | Chinese
 --------------- | -------- | ----------------- | -------
