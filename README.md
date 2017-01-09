@@ -191,6 +191,7 @@ Running         | 🏃        | paobu             | 跑步
 Cycling         | 🚴        | shandiche         | 山地车
 Swimming        | 🏊        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
+Man dancing     | 🕺        | tiaowu            | 跳舞
 Snowboarding    | 🏂        | huaxueban         | 滑雪板
 Playing basketball | ⛹️     | dalanqiu          | 打篮球
 Ping pong pad   | 🏓️        | pingpangqiu       | 乒乓球
