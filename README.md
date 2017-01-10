@@ -75,6 +75,7 @@ Mobile phone    | 📱        | shouji            | 手机
 Glasses         | 👓        | yanjing           | 眼镜
 Door            | 🚪        | men               | 门
 Police man      | 👮        | jingcha           | 警察
+Worker          | 👷        | gongren           | 工人
 Princess        | 👸        | gongzhu           | 公主
 Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
 Snow man #1     | ⛄️        | xueren            | 雪人
