@@ -41,6 +41,8 @@ Kissing cat     | 😽        | qinqin            | 亲亲
 Cat laughing hard | 😹      | gandong           | 感动
 Angel           | 👼        | tianshi           | 天使
 Bride           | 👰        | xinniang          | 新娘
+Arms up         | 🙆        | kending           | 肯定
+Hand out        | 💁        | kefu              | 客服
 Begging for forgiveness | 🙇 | kenqiu           | 恳求
 Skull           | 💀        | siwang            | 死亡
 Ghost           | 👻        | guihun            | 鬼魂
