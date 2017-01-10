@@ -51,6 +51,7 @@ Not looking     | 🙈        | kanbujian         | 看不见
 Not listening   | 🙉        | tingbudao         | 听不到
 Heart           | ❤️        | xin/ai            | 心/爱
 Black heart     | 🖤        | heixin            | 黑心
+Star            | 🌟        | xing              | 星
 Stars           | ✨        | xingxing          | 星星
 Poop            | 💩        | dabian            | 大便
 Sweethearts     | 💑        | lianren           | 恋人
