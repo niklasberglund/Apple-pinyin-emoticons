@@ -176,6 +176,7 @@ Shower          | 🚿        | xizao             | 洗澡
 Calendar        | 📅        | riqi              | 日期
 Book            | 📖        | chaxun            | 查询
 Pen             | ✏️        | xiezuo            | 写作
+Note            | 📝        | jilu              | 记录
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
 Bed             | 🛏️        | chuang            | 床
