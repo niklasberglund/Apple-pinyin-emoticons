@@ -25,7 +25,7 @@ Heart eyes      | 😍        | xihuan/aini       | 喜欢/爱你
 In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
 Indifferent     | 😒        | lengmo            | 冷漠
-Surprised       | 😯        | yiwai             | 意外
+Surprised       | 😯        | yiwai/o           | 意外/哦
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
 Tired           | 😪        | pilao             | 疲劳
