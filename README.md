@@ -74,6 +74,7 @@ Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Baby            | 👶        | baobao            | 宝宝
 Alien           | 👽        | waixingren        | 外星人
 Money bag       | 💰        | qian              | 钱
+Flying money    | 💸        | pochan            | 破产
 Tool            | 🔧        | gongju            | 工具
 Mobile phone    | 📱        | shouji            | 手机
 Glasses         | 👓        | yanjing           | 眼镜
