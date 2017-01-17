@@ -200,7 +200,7 @@ White shoe      | 👟        | xie               | 鞋
 Sandals         | 👡        | liangxie          | 凉鞋
 Running         | 🏃        | paobu             | 跑步
 Cycling         | 🚴        | shandiche         | 山地车
-Swimming        | 🏊        | youyong           | 游泳
+Man swimming    | 🏊        | youyong           | 游泳
 Woman swimming  | 🏊‍♀️        | youyong           | 游泳
 Dancing         | 💃        | tiaowu            | 跳舞
 Man dancing     | 🕺        | tiaowu            | 跳舞
