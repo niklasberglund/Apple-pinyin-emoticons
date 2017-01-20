@@ -69,6 +69,7 @@ Flower #6       | 🌷        | hua               | 花
 Man             | 👨        | nanren            | 男人
 Young man       | 👱        | nianqingren       | 年轻人
 Boy             | 👦        | nanhai/erzi       | 男孩/儿子
+Old man         | 👴        | laonian           | 老年
 Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Baby            | 👶        | baobao            | 宝宝
