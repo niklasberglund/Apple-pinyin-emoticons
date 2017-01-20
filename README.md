@@ -66,6 +66,7 @@ Flower #3       | 🌼        | hua               | 花
 Flower #4       | 🌺        | hua               | 花
 Flower #5       | 🌸        | hua               | 花
 Flower #6       | 🌷        | hua               | 花
+Club            | ♣️        | meihua            | 梅花
 Man             | 👨        | nanren            | 男人
 Young man       | 👱        | nianqingren       | 年轻人
 Boy             | 👦        | nanhai/erzi       | 男孩/儿子
