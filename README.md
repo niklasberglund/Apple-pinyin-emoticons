@@ -177,6 +177,7 @@ Shower          | 🚿        | xizao             | 洗澡
 Calendar        | 📅        | riqi              | 日期
 Book            | 📖        | chaxun            | 查询
 Books           | 📚        | shuji             | 书籍
+Bookmark        | 🔖        | shuqian           | 书签
 Pen             | ✏️        | xiezuo            | 写作
 Note            | 📝        | jilu              | 记录
 Computer        | 💻        | diannao           | 电脑
