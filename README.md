@@ -181,6 +181,7 @@ Note            | 📝        | jilu              | 记录
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
 Bed             | 🛏️        | chuang            | 床
+Piano keys      | 🎹        | gangqin           | 钢琴
 Guitar          | 🎸        | jita              | 吉他
 Drum            | 🥁        | gu                | 鼓
 Trophy          | 🏆        | guanjun           | 冠军
