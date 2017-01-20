@@ -184,6 +184,7 @@ Bed             | 🛏️        | chuang            | 床
 Piano keys      | 🎹        | gangqin           | 钢琴
 Guitar          | 🎸        | jita              | 吉他
 Drum            | 🥁        | gu                | 鼓
+Violin          | 🎻        | xiaotiqin         | 小提琴
 Trophy          | 🏆        | guanjun           | 冠军
 Game pad        | 🎮        | youxi             | 游戏
 Joystick        | 🕹️        | caozonggan        | 操纵杆
