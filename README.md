@@ -186,6 +186,7 @@ Pen             | ✏️        | xiezuo            | 写作
 Note            | 📝        | jilu              | 记录
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
+Alarm clock     | ⏰        | naozhong          | 闹钟
 Shirt           | 👕        | chenshan          | 衬衫
 Bed             | 🛏️        | chuang            | 床
 Piano keys      | 🎹        | gangqin           | 钢琴
