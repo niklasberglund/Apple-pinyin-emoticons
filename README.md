@@ -154,6 +154,7 @@ Coffee          | ☕️        | kafei             | 咖啡
 Tea             | 🍵        | cha               | 茶
 Juice           | 🍹        | guozhi            | 果汁
 Boat            | 🚢        | chuan             | 船
+Small boat      | 🚣        | xiaochuan         | 小船
 Earth #1        | 🌍        | diqiu             | 地球
 Earth #2        | 🌏        | diqiu             | 地球
 Plane           | ✈️        | feiji             | 飞机
