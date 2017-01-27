@@ -128,6 +128,7 @@ Chicken         | 🐤        | xiaoji            | 小鸡
 Standing chicken |  🐥      | xiaoji            | 小鸡
 Chicken in egg  | 🐣        | xiaoji            | 小鸡
 Hen             | 🐔        | muji              | 母鸡
+Rooster         | 🐓        | gongji            | 公鸡
 Horse           | 🐎        | ma                | 马
 Milk cow        | 🐄        | nainiu            | 奶牛
 Pig #1          | 🐖        | zhu               | 猪
