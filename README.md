@@ -147,6 +147,7 @@ Hamburger       | 🍔        | hanbao            | 汉堡
 French fries    | 🍟        | shutiao           | 薯条
 Pizza           | 🍕        | pisa              | 披萨
 Candy           | 🍬        | tangguo           | 糖果
+Lollipop        | 🍭        | bangbangtang      | 棒棒糖
 Chocolate bar   | 🍫        | qiaokeli          | 巧克力
 Beer            | 🍺        | pijiu             | 啤酒
 Beer toast      | 🍻        | pijiu             | 啤酒
