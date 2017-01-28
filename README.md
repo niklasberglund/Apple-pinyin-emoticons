@@ -74,6 +74,7 @@ Old man         | 👴        | laonian           | 老年
 Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Baby            | 👶        | baobao            | 宝宝
+Grandma         | 👵        | nainai            | 奶奶
 Alien           | 👽        | waixingren        | 外星人
 Money bag       | 💰        | qian              | 钱
 Flying money    | 💸        | pochan            | 破产
