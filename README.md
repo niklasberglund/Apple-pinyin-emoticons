@@ -186,6 +186,7 @@ Books           | 📚        | shuji             | 书籍
 Bookmark        | 🔖        | shuqian           | 书签
 Pen             | ✏️        | xiezuo            | 写作
 Note            | 📝        | jilu              | 记录
+TV              | 📺        | dianshi           | 电视
 Computer        | 💻        | diannao           | 电脑
 Smartphone      | 📱        | shouji            | 手机
 Alarm clock     | ⏰        | naozhong          | 闹钟
