@@ -152,6 +152,7 @@ Chocolate bar   | 🍫        | qiaokeli          | 巧克力
 Beer            | 🍺        | pijiu             | 啤酒
 Beer toast      | 🍻        | pijiu             | 啤酒
 Red wine        | 🍷        | hongjiu           | 红酒
+Milk            | 🥛        | niunai            | 牛奶
 Coffee          | ☕️        | kafei             | 咖啡
 Tea             | 🍵        | cha               | 茶
 Juice           | 🍹        | guozhi            | 果汁
