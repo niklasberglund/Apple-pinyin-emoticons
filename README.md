@@ -198,6 +198,7 @@ Violin          | 🎻        | xiaotiqin         | 小提琴
 Trophy          | 🏆        | guanjun           | 冠军
 Game pad        | 🎮        | youxi             | 游戏
 Joystick        | 🕹️        | caozonggan        | 操纵杆
+Mahjong         | 🀄️        | mahjong           | 麻将
 Battery         | 🔋        | dianchi           | 电池
 Label           | 🏷️        | biaoqian          | 标签
 Injection       | 💉        | dazhen            | 打针
