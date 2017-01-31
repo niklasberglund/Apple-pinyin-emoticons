@@ -100,6 +100,7 @@ Watermelon      | 🍉        | xigua             | 西瓜
 Strawberry      | 🍓        | caomei            | 草莓
 Pumpkin         | 🎃        | nangua            | 南瓜
 Potato          | 🥔        | tudou             | 土豆
+Cucumber        | 🥒        | huanggua          | 黄瓜
 Bee             | 🐝        | mifeng            | 蜜蜂
 Fish            | 🐟        | yu                | 鱼
 Fish #2         | 🐠        | yu                | 鱼
