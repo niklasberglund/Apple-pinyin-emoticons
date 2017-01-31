@@ -179,6 +179,7 @@ Cargo truck     | 🚚        | huoche            | 货车
 Metro train     | 🚇        | ditie             | 地铁
 Cable car       | 🚠        | lanche            | 缆车
 Rocket          | 🚀        | huojian           | 火箭
+Hole            | 🕳️        | dong              | 洞
 Link            | 🔗        | lianjie           | 链接
 Seat            | 💺        | zuowei            | 座位
 Toilet seat     | 🚽        | cesuo             | 厕所
