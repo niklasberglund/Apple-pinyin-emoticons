@@ -260,6 +260,7 @@ Writing         | ✍️        | xiezi             | 写字
 Refuel          | ⛽️        | jiayou            | 加油
 Waving hand     | 👋        | shou/zaijian      | 手/再见
 Clapping hands  | 👏        | huanying          | 欢迎
+Muscle          | 💪        | jirou             | 肌肉
 Hear/Ear        | 👂        | ting/erduo        | 听/耳朵
 Look/Eyes       | 👀        | kan/yanjing       | 看/眼睛
 Speak           | 👄        | shuohua           | 说话
