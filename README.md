@@ -92,6 +92,7 @@ Robot           | 🤖️        | jiqiren           | 机器人
 Guard           | 💂        | weishi            | 卫士
 Moon            | 🌛        | yueliang          | 月亮
 Sun             | 🌞        | taiyang           | 太阳
+Rainbow         | 🌈        | hong              | 虹
 Grapes          | 🍇        | putao             | 葡萄
 Red apple       | 🍎        | pingguo           | 苹果
 Green apple     | 🍏        | pingguo           | 苹果
