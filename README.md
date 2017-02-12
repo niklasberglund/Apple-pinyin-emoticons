@@ -90,6 +90,7 @@ Snow man #1     | ⛄️        | xueren            | 雪人
 Snow man #2     | ☃️        | xueren            | 雪人
 Robot           | 🤖️        | jiqiren           | 机器人
 Guard           | 💂        | weishi            | 卫士
+Chinese hat     | 👲        | guapimao          | 瓜皮帽
 Moon            | 🌛        | yueliang          | 月亮
 Sun             | 🌞        | taiyang           | 太阳
 Rainbow         | 🌈        | hong              | 虹
