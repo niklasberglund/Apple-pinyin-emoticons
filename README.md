@@ -219,6 +219,7 @@ Injection       | 💉        | dazhen            | 打针
 Light bulb      | 💡        | dengpao           | 灯泡
 Lantern         | 🏮        | denglong          | 灯笼
 Crystal ball    | 🔮        | shuijingqiu       | 水晶球
+Hair salon      | 💈        | lifa              | 理发
 Movie recording | 🎬        | paishe            | 拍摄
 Thermometer     | 🌡️        | wenduji           | 温度计
 Kimono          | 👘        | hefu              | 和服
