@@ -175,6 +175,7 @@ Bus #2          | 🚍        | gongche           | 公车
 Bus #3          | 🚐        | gongche           | 公车
 Bus #4          | 🚎        | gongche           | 公车
 Taxi            | 🚕        | chuzuche          | 出租车
+Police car      | 🚔        | baojing           | 报警
 Passenger boat  | 🛳️        | kechuan           | 客船
 Bicycle         | 🚲        | zixingche         | 自行车
 Train           | 🚄        | huoche            | 火车
