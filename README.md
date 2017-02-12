@@ -225,6 +225,7 @@ High heel shoe  | 👠        | nvxie             | 女鞋
 Leather shoe    | 👞        | nanxie            | 难写
 White shoe      | 👟        | xie               | 鞋
 Sandals         | 👡        | liangxie          | 凉鞋
+Hat             | 🎩        | maozi             | 帽子
 Running         | 🏃        | paobu             | 跑步
 Cycling         | 🚴        | shandiche         | 山地车
 Man swimming    | 🏊        | youyong           | 游泳
