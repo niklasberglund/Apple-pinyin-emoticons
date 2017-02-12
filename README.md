@@ -75,6 +75,15 @@ Woman           | 👩        | nvren             | 女人
 Girl            | 👧        | nvhai/nver        | 女孩/女儿
 Baby            | 👶        | baobao            | 宝宝
 Grandma         | 👵        | nainai            | 奶奶
+Police man      | 👮        | jingcha           | 警察
+Worker          | 👷        | gongren           | 工人
+Princess        | 👸        | gongzhu           | 公主
+Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
+Guard           | 💂        | weishi            | 卫士
+Chinese hat     | 👲        | guapimao          | 瓜皮帽
+Snow man #1     | ⛄️        | xueren            | 雪人
+Snow man #2     | ☃️        | xueren            | 雪人
+Robot           | 🤖️        | jiqiren           | 机器人
 Alien           | 👽        | waixingren        | 外星人
 Money bag       | 💰        | qian              | 钱
 Flying money    | 💸        | pochan            | 破产
@@ -82,15 +91,6 @@ Tool            | 🔧        | gongju            | 工具
 Mobile phone    | 📱        | shouji            | 手机
 Glasses         | 👓        | yanjing           | 眼镜
 Door            | 🚪        | men               | 门
-Police man      | 👮        | jingcha           | 警察
-Worker          | 👷        | gongren           | 工人
-Princess        | 👸        | gongzhu           | 公主
-Santa Claus     | 🎅        | shengdanlaoren    | 圣诞老人
-Snow man #1     | ⛄️        | xueren            | 雪人
-Snow man #2     | ☃️        | xueren            | 雪人
-Robot           | 🤖️        | jiqiren           | 机器人
-Guard           | 💂        | weishi            | 卫士
-Chinese hat     | 👲        | guapimao          | 瓜皮帽
 Moon            | 🌛        | yueliang          | 月亮
 Sun             | 🌞        | taiyang           | 太阳
 Rainbow         | 🌈        | hong              | 虹
