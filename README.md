@@ -276,6 +276,7 @@ See no evil     | 🙈        | bukan             | 不看
 Hear no evil    | 🙉        | buting            | 不听
 Speak no evil   | 🙊        | bushuo            | 不说
 Statue of liberty | 🗽      | ziyounvshen       | 自由女神
+Quick escape    | 💨        | kuaipao           | 快跑
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
 Rain #1         | 🌧️        | xiayu             | 下雨
