@@ -272,6 +272,9 @@ Hear/Ear        | 👂        | ting/erduo        | 听/耳朵
 Look/Eyes       | 👀        | kan/yanjing       | 看/眼睛
 Speak           | 👄        | shuohua           | 说话
 Tongue          | 👅        | shetou            | 舌头
+See no evil     | 🙈        | bukan             | 不看
+Hear no evil    | 🙉        | buting            | 不听
+Speak no evil   | 🙊        | bushuo            | 不说
 Statue of liberty | 🗽      | ziyounvshen       | 自由女神
 Thought bubble  | 💭        | kaolv             | 考虑
 Cloud           | ☁️        | yun               | 云
