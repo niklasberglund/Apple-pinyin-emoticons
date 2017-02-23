@@ -243,6 +243,7 @@ Football        | ⚽️        | zuqiu             | 足球
 Volleyball      | 🏐️        | paiqiu            | 排球
 Billiard ball   | 🎱        | zhuoqiu           | 桌球
 Badminton racket | 🏸️       | yumaoqiu          | 羽毛球
+Balloon         | 🎈        | qiqiu             | 气球
 Fire            | 🔥        | huo               | 火
 Bomb            | 💣        | hong              | 轰
 House #1        | 🏠        | jia/fangzi        | 家/房子
