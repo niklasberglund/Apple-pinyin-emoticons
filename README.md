@@ -289,6 +289,7 @@ Typhoon         | 🌀        | taifeng           | 台风
 Heat            | ♨️        | wenquan           | 温泉
 Snowy mountain  | 🏔️        | xueshan           | 雪山
 Tent            | ⛺️        | zhangpeng         | 帐篷
+Footprints      | 👣        | jiaobu            | 脚步
 US Dollar #1    | 💲        | meiyuan           | 美元
 US Dollar #2    | 💵        | meiyuan           | 美元
 Japanese Yen    | 💴        | riyuan            | 日元
