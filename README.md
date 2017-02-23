@@ -246,6 +246,7 @@ Badminton racket | 🏸️       | yumaoqiu          | 羽毛球
 Balloon         | 🎈        | qiqiu             | 气球
 Fire            | 🔥        | huo               | 火
 Bomb            | 💣        | hong              | 轰
+Fountain        | ⛲️        | gongyuan          | 公园
 House #1        | 🏠        | jia/fangzi        | 家/房子
 House #2        | 🏡        | jia               | 家
 Church          | ⛪️        | jiaotang          | 教堂
