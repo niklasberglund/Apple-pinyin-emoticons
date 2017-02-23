@@ -26,6 +26,7 @@ In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
 Indifferent     | 😒        | lengmo            | 冷漠
 Surprised       | 😯        | yiwai/o           | 意外/哦
+Shy             | 😳        | haixiu            | 害羞
 Awkward         | 😅        | ganga             | 尴尬
 Sweating        | 😓        | han               | 汗
 Tired           | 😪        | pilao             | 疲劳
