@@ -105,6 +105,7 @@ Pumpkin         | 🎃        | nangua            | 南瓜
 Potato          | 🥔        | tudou             | 土豆
 Cucumber        | 🥒        | huanggua          | 黄瓜
 Bee             | 🐝        | mifeng            | 蜜蜂
+Crab            | 🦀️        | pangxie           | 螃蟹
 Fish            | 🐟        | yu                | 鱼
 Fish #2         | 🐠        | yu                | 鱼
 Dolphin         | 🐬        | haitun            | 海豚
