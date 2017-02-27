@@ -149,6 +149,7 @@ Bowl of rice    | 🍚        | mifan             | 米饭
 Bowl of noodles | 🍜        | miantiao          | 面条
 Soup            | 🍲        | nongtang          | 浓汤
 Cook            | 🍳        | pengren           | 烹饪
+Frying pan      | 🥘        | panzi             | 盘子
 Take-out food   | 🍱        | kuaican           | 快餐
 Cup of tea      | 🍵        | cha               | 茶
 Bread           | 🍞        | mianbao           | 面包
