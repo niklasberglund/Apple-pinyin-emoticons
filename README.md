@@ -134,6 +134,7 @@ Bird            | 🐦        | niao              | 鸟
 Chicken         | 🐤        | xiaoji            | 小鸡
 Standing chicken |  🐥      | xiaoji            | 小鸡
 Chicken in egg  | 🐣        | xiaoji            | 小鸡
+Chicken egg     | 🥚        | jidan             | 鸡蛋
 Hen             | 🐔        | muji              | 母鸡
 Rooster         | 🐓        | gongji            | 公鸡
 Turkey          | 🦃️        | huoji             | 火鸡
