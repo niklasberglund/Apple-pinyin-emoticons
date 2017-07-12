@@ -268,6 +268,7 @@ Recycle         | ♻️        | huanbao           | 环保
 Clothes         | 👔        | yifu              | 衣服
 Work            | 💼        | shangban          | 上班
 School bag      | 🎒        | shangxue          | 上学
+One finger      | ☝️        | yige              | 一个
 Peace sign      | ✌️        | ye                | 叶
 OK              | 👌        | hao               | 好
 Fist bump       | 👊        | quantou           | 拳头
