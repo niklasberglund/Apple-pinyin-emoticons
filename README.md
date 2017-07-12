@@ -259,6 +259,7 @@ Church wedding  | 💒        | hunli             | 婚礼
 Shrine          | ⛩️        | shenshe           | 神社
 Factory         | 🏭        | gongchang         | 工厂
 Railway station | 🚉        | chezhan           | 车站
+Wave            | 🌊        | lang              | 浪
 Tree #1         | 🌳        | shu               | 树
 Tree #2         | 🌲        | shu               | 树
 Tree #3         | 🌴        | shu               | 树
