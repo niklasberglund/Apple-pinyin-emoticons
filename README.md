@@ -157,6 +157,7 @@ Domut           | 🍩        | mianbaoquan       | 面包圈
 Hamburger       | 🍔        | hanbao            | 汉堡
 French fries    | 🍟        | shutiao           | 薯条
 Pizza           | 🍕        | pisa              | 披萨
+Taco            | 🌮️        | take              | 塔克
 Salad           | 🥗        | shala             | 沙拉
 Candy           | 🍬        | tangguo           | 糖果
 Lollipop        | 🍭        | bangbangtang      | 棒棒糖
