@@ -17,6 +17,7 @@ Happy           | 😊        | gaoxing           | 高兴
 Laughing #1     | 😄        | kaixin            | 开心
 Laughing #2     | 😃        | kaixin            | 开心
 Laughing #3     | 😆        | kaixin            | 开心
+Face with tears of joy | 😂 | kuxiao            | 哭笑
 Burst into laughter | 😁    | xixi              | 嘻嘻
 Blink           | 😉        | qingsong          | 轻松
 Kiss            | 😚        | qinqin            | 亲亲
