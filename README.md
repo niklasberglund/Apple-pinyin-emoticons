@@ -25,6 +25,7 @@ Blowing a kiss  | 😘        | qinqin            | 亲亲
 Heart eyes      | 😍        | xihuan/aini       | 喜欢/爱你
 In pain         | 😫        | nanguo            | 难过
 Angry           | 😠        | shengqi           | 生气
+Tired           | 🥱        | lei               | 累
 Indifferent     | 😒        | lengmo            | 冷漠
 Surprised       | 😯        | yiwai/o           | 意外/哦
 Shy             | 😳        | haixiu            | 害羞
